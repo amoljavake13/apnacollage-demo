@@ -1,3 +1,3 @@
 # apnacollage-demo
 This is my first Git Repository
-Author - Amol Javake
+<br>Author - Amol Javake
